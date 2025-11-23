@@ -1,0 +1,54 @@
+p {
+	
+	
+	color:  red;
+	
+	
+}
+body{
+	
+	
+		background-color:  orange ;
+		
+		
+}
+#topbar{
+	
+	
+	min-height : 300px ;
+	width : 100% ;
+	background-color : white ;
+	
+	
+}
+#topbar p{
+	
+	
+	font-size :  6vmin ;
+	display :  inline-block ;
+	margin-top : 6% ;
+	margin-left : 10% ;
+	
+	
+}
+#steve {
+	
+	
+	float:left ;
+	margin-left:2% ;
+	margin-top:  5px ;
+	max-width:95% ;
+	max-height:95% 
+	//transform: (180deg)  ;
+	
+}
+
+#mainbutton{
+	margin-left: 5%;
+	margin-bottom: 2%;
+	background-color: #3081a1;
+	color: white;
+	padding: 15px 20px;
+	display: inline-block;
+	font-size: 24px;
+}

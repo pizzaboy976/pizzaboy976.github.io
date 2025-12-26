@@ -56,8 +56,8 @@ body{
 #chicken{
 
 border-radius:25px;
-	max-width: 10%;
-	max-height: 20%;
+	max-width: 1000%;
+	max-height: 2000%;
 }
 
 .chickenAnimation{
@@ -69,6 +69,7 @@ border-radius:25px;
 	50% { margin-left: 80%;}
 	100% { margin-left: 0%;}
 }
+
 
 
 
